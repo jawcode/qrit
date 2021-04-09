@@ -7,7 +7,7 @@ The idea is basic in implementation so far; take a string or convert a file into
 
 ![alt text](https://github.com/jawcode/qrit/raw/main/qrTransfer.png?raw=true)
 
-The HTML file is an all-in-one donwload that has embedded scripts from the following repos:
+The HTML file is an all-in-one download that has embedded scripts to create and scan QR codes. Scripts are from the following repos:
 
 QR Scanning: https://github.com/nimiq/qr-scanner
 QR Creation: https://davidshimjs.github.io/qrcodejs/
